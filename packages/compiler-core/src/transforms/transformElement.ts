@@ -19,7 +19,8 @@ import {
   TemplateTextChildNode,
   DirectiveArguments,
   createVNodeCall,
-  ConstantTypes
+  ConstantTypes,
+  PlainElementNode
 } from '../ast'
 import {
   PatchFlags,
